@@ -1,0 +1,79 @@
+0	2016x1512	2025 pix/000263.jpg
+1	1512x2016	2025 pix/000326.jpg
+2	2048x1366	2025 pix/000398.jpg
+3	1779x1356	2025 pix/IMG_6450.jpeg
+4	1170x1158	2025 pix/IMG_9509.jpg
+5	1008x1052	2025 pix/Screen Shot 2019-02-11 at 12.42.34 PM.png
+6	1180x1038	2025 pix/Screen Shot 2025-06-20 at 11.59.00 AM.png
+7	548x538	2025 pix/hoodie.png
+8	1512x2016	2025 pix/institute 2024.jpg
+9	ERR	PIX/5802E806-C37F-4716-B247-77EFB274C369.jpg	[Errno 35] Resource deadlock avoided
+10	1440x1800	PIX/AD9E3A17-0162-4E63-AF6D-A7DA32396C9A.jpg
+11	946x2048	PIX/IMG_2344.PNG.jpeg
+12	ERR	PIX/IMG_2345.PNG.jpeg	[Errno 35] Resource deadlock avoided
+13	946x2048	PIX/IMG_2346.PNG.jpeg
+14	1050x1409	PIX/IMG_6669.PNG
+15	1242x2208	PIX/IMG_7038.JPG
+16	750x744	Chapter Pix 2021-22/North Kingston High School/IMG_5305.jpg
+17	750x742	Chapter Pix 2021-22/North Kingston High School/IMG_5306.jpg
+18	750x744	Chapter Pix 2021-22/North Kingston High School/IMG_5307.jpg
+19	1440x1800	Chapter Pix 2021-22/Westfield High School/1F2925E5-D038-4FCE-B6EF-B42D2FD87FC2.jpg
+20	ERR	Chapter Pix 2021-22/Westfield High School/3D0EC2ED-366E-4B38-9D45-A3B0A079BFA2.jpg	[Errno 35] Resource deadlock avoided
+21	1440x1801	Chapter Pix 2021-22/Westfield High School/711D049D-892E-4C6D-9501-BC344B2FE3C1.jpg
+22	1440x1795	Chapter Pix 2021-22/Westfield High School/774B96FF-33B2-41F6-9D0A-0C4E1163AB51.jpg
+23	1440x1800	Chapter Pix 2021-22/Westfield High School/79AF39B4-C71F-4DF6-A4F8-3526CD577675.jpg
+24	1440x1795	Chapter Pix 2021-22/Westfield High School/8B33796C-A590-4622-8F68-514E8AEEF82A.jpg
+25	ERR	Chapter Pix 2021-22/Westfield High School/AF046DC1-DC64-49D1-8EF8-2118D52266EA.jpg	[Errno 35] Resource deadlock avoided
+26	1440x1800	Chapter Pix 2021-22/Westfield High School/BBB95C75-A61E-4DD6-8F3F-00971AEECD3F.jpg
+27	1440x1795	Chapter Pix 2021-22/Westfield High School/CB97CD8B-B659-4022-ABD4-6F3D778495FC.jpg
+28	1440x1795	Chapter Pix 2021-22/Westfield High School/FAE49A19-0A1C-429A-A5AB-85AD31B91D0E.jpg
+29	2704x1032	Chapter Pix 2022-2023/Pictures/Screen Shot 2023-07-18 at 1.18.58 PM.png
+30	4898x3265	website pix/066.JPG
+31	4898x3265	website pix/153.JPG
+32	1125x2000	website pix/6F868822-FF64-4E3E-9116-608B7BBEBC24.JPG
+33	ERR	website pix/7.jpg	[Errno 35] Resource deadlock avoided
+34	1200x676	website pix/A4.png
+35	4032x3024	website pix/ABLVV87OvpWn8h2Ti1lr1_WDvc-v2KmqFa1uLMPZONEtH0NhLbKR_0Vl8agkpNa4LAa2pvbR4J79XAOnwL4lzgEawT6aOIh4ilhy0FRVr-qfOvubecdztraA=s0-d-ip.jpeg
+36	1280x720	website pix/Copy of A_CAM_GNG1123T01.JPG
+37	1280x720	website pix/Copy of A_CAM_GNG1171T01.JPG
+38	4928x3264	website pix/Copy of DSC_7790.jpg
+39	ERR	website pix/Copy of Screen Shot 2022-08-05 at 5.09.20 PM.png	[Errno 35] Resource deadlock avoided
+40	3264x4912	website pix/DSC00959.JPG
+41	4912x3264	website pix/DSC04714.JPG
+42	3264x2448	website pix/IMG_1505.JPG
+43	4898x3265	website pix/IMG_2446.JPG
+44	1294x2000	website pix/Nudes poster 3.jpg
+45	5776x4336	website pix/P1002709.JPEG
+46	2880x1800	website pix/Screen Shot 2017-04-18 at 4.07.42 PM.png
+47	900x652	website pix/Screen Shot 2022-06-06 at 5.18.00 PM.png
+48	764x594	website pix/Screen Shot 2022-06-06 at 5.18.14 PM.png
+49	2308x1558	website pix/Screen Shot 2022-08-05 at 5.04.05 PM.png
+50	ERR	website pix/Screen Shot 2023-02-07 at 6.15.21 PM.png	[Errno 35] Resource deadlock avoided
+51	410x572	website pix/Screen Shot 2023-10-02 at 5.55.07 PM.png
+52	572x716	website pix/Screen Shot 2023-10-02 at 6.16.55 PM.png
+53	194x240	website pix/Screen Shot 2023-10-09 at 6.07.41 PM.png
+54	578x710	website pix/Screen Shot 2023-10-09 at 6.11.38 PM.png
+55	546x746	website pix/Screen Shot 2023-10-09 at 6.13.18 PM.png
+56	476x598	website pix/Screen Shot 2023-10-09 at 6.15.03 PM.png
+57	1440x1226	website pix/Sydney Turner.JPG
+58	800x800	website pix/do you #knowB4Unude 4.jpg
+59	ERR	website pix/emily bach.jpg	[Errno 35] Resource deadlock avoided
+60	1170x1458	website pix/hands.png
+61	2880x1800	website pix/healing.png
+62	1294x2000	website pix/nudes poster 2.jpg
+63	1080x1080	website pix/nudes poster 4.jpg
+64	6372x4248	website pix/qts full cast copy.jpg
+65	2000x1429	website pix/red flags .jpg
+66	ERR	website pix/rowen woodcock.jpg	cannot identify image file 'website pix/rowen woodcock.jpg'
+67	2016x1512	website pix/2025 pix/000263.jpg
+68	1512x2016	website pix/2025 pix/000326.jpg
+69	ERR	website pix/2025 pix/000398.jpg	[Errno 35] Resource deadlock avoided
+70	1779x1356	website pix/2025 pix/IMG_6450.jpeg
+71	1170x1158	website pix/2025 pix/IMG_9509.jpg
+72	1008x1052	website pix/2025 pix/Screen Shot 2019-02-11 at 12.42.34 PM.png
+73	1180x1038	website pix/2025 pix/Screen Shot 2025-06-20 at 11.59.00 AM.png
+74	548x538	website pix/2025 pix/hoodie.png
+75	1512x2016	website pix/2025 pix/institute 2024.jpg
+76	5544x3960	charlie pix/2L3A1923.jpg
+77	1784x2230	charlie pix/charlie.jpg
+78	1655x1973	charlie pix/chuck.jpg
